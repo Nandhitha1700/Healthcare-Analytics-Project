@@ -14,7 +14,7 @@ The project uses a MySQL database with the following tables:
 
 ## Files and Folders
 
-### 📁 database/
+### 📁 Database/
 Contains 6 SQL files with the complete database schema and data:
 - `healthcare_analytics_admissions.sql` (727 KB)
 - `healthcare_analytics_lab_results.sql` (3,016 KB)
@@ -23,13 +23,13 @@ Contains 6 SQL files with the complete database schema and data:
 - `healthcare_analytics_readmissions.sql` (87 KB)
 - `healthcare_analytics_routines.sql` (9 KB)
 
-### 📁 data/
+### 📁 Data/
 Contains CSV files used for analysis
 
-### 📁 notebooks/
+### 📁 Notebooks/
 Contains Jupyter notebooks with data analysis and visualizations
 
-### 📁 images/
+### 📁 Powerbi Images/
 Power BI dashboard screenshots showing key insights
 
 ## Technologies Used
@@ -53,9 +53,9 @@ Open the Jupyter notebook in the `notebooks/` folder and run the cells.
 Check the `images/` folder for Power BI dashboard screenshots.
 
 ## Power BI Dashboard Screenshots
-![Dashboard 1](images/screenshot1.png)
-![Dashboard 2](images/screenshot2.png)
-![Dashboard 3](images/screenshot3.png)
+![Dashboard 1](images/screenshot27.png)
+![Dashboard 2](images/screenshot28.png)
+![Dashboard 3](images/screenshot29.png)
 
 ## Key Insights
 
@@ -110,7 +110,7 @@ Check the `images/` folder for Power BI dashboard screenshots.
 ```
 Healthcare_Analytics_Project/
 │
-├── database/
+├── Database/
 │   ├── healthcare_analytics_admissions.sql
 │   ├── healthcare_analytics_lab_results.sql
 │   ├── healthcare_analytics_medications.sql
@@ -118,13 +118,13 @@ Healthcare_Analytics_Project/
 │   ├── healthcare_analytics_readmissions.sql
 │   └── healthcare_analytics_routines.sql
 │
-├── data/
+├── Data/
 │   └── [CSV files]
 │
-├── notebooks/
+├── Notebooks/
 │   └── [Jupyter notebook files]
 │
-├── images/
+├── Powerbi Images/
 │   └── [Power BI dashboard screenshots]
 │
 └── README.md
@@ -154,4 +154,5 @@ This project is open source and available for educational purposes.
 For questions or feedback, please reach out through GitHub issues.
 
 ---
+
 **Note**: This project uses anonymized healthcare data for analysis purposes. All patient information has been de-identified to ensure privacy compliance.
