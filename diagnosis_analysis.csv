@@ -1,0 +1,11 @@
+primary_diagnosis,Total Admissions,Readmissions,Readmission Rate
+Sepsis,696,67,9.63
+Pneumonia,639,61,9.55
+Diabetes with complications,674,61,9.05
+Respiratory Failure,681,57,8.37
+Hip Fracture,696,58,8.33
+Stroke,630,52,8.25
+CHF - Congestive Heart Failure,620,50,8.06
+Kidney Failure,635,51,8.03
+Acute Myocardial Infarction,715,54,7.55
+COPD - Chronic Obstructive Pulmonary Disease,692,52,7.51

@@ -1,0 +1,5 @@
+los_category,Total Admissions,Readmissions,Readmission Rate,Avg Charges
+0-2 days,943,75,8.0,29616.74
+3-5 days,1386,104,8.0,28979.4
+6-10 days,2461,222,9.0,29991.47
+11+ days,1888,162,9.0,29497.25
